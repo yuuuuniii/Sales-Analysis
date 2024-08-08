@@ -8,6 +8,7 @@ As the domestic golf-wear market in Korea continues to expand, competition withi
 ## 🎯Result
 ### [Golin Product Predict EDA Pipeline]
 ![Alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Golin_Project_EDA_Pipeline.jpg)
+![Alt text](./Image/Golin_Project_EDA_Pipeline.jpg)
 
 ##
 
