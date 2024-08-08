@@ -7,7 +7,7 @@ As the domestic golf-wear market in Korea continues to expand, competition withi
 
 ## 🎯Result
 ### [Golin Product Predict EDA Pipeline]
-![alt text](https://file.notion.so/f/f/0b3aee58-6888-45fa-8e6d-12430a1dee51/be43490c-beaa-4794-b663-d9e50dbe2b72/Golin_Project_EDA_Pipeline.jpg?id=d3dcfd2a-6b22-40f2-af05-f4f5da6c8053&table=block&spaceId=0b3aee58-6888-45fa-8e6d-12430a1dee51&expirationTimestamp=1722391200000&signature=bF9hpt2JnfweSyc83ZsUwBIRsz79bwLBo82-bnDDtQM&downloadName=Golin_Project_EDA_Pipeline.JPG.jpg)
+![alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Golin_Project_EDA_Pipeline.jpg)
 
 ##
 
@@ -42,7 +42,7 @@ As the domestic golf-wear market in Korea continues to expand, competition withi
 ##
 
 ### 1.[📊 Data Collect]
-Golin collected sales data over three years from more than 20 offline stores and over 15 online channels. This data was used to forecast the product lineup for the upcoming season. Additionally, customer satisfaction surveys were conducted in offline stores, and over 1,000 product reviews were collected and analyzed online.
+Golin collected sales data over three years from over 20 offline stores and over 15 online channels. This data was used to forecast the product lineup for the upcoming season. Additionally, customer satisfaction surveys were conducted in offline stores, and over 1,000 product reviews were collected and analyzed online.
 
 ##
 
@@ -57,14 +57,13 @@ The goal is to understand customer behavior patterns using a funnel approach and
 
 #### [📝Customer Perspective]
 #### | Hypothesis 1
-The stage where most exits occur is likely to be the transition from viewing the detailed purchase page to completing the purchase (Bottleneck).
+The stage where most exits occur will likely be the transition from viewing the detailed purchase page to completing the purchase (Bottleneck).
 
 ***Reason***: Since making a purchase involves actual payment, it is anticipated that the likelihood of exit is high at this stage.
 
-***Analysis Outcome*:** Over the past three years, there has been significant revenue growth, mostly driven by new customers. However, there is an issue with new customers consistently entering but not staying and ultimately churning. It was observed that, except for the top 3 grades (top 30% in terms of purchase amount) when classified based on customer grades determined by purchase amount, most customers make only one purchase and then churn. The churn rate is exceptionally high, indicating the need to explore ways to reduce churn.
+***Analysis Outcome*:** Over the past three years, significant revenue growth has been mostly driven by new customers. However, there is an issue with new customers consistently entering but not staying and ultimately churning. It was observed that, except for the top 3 grades (top 30% in terms of purchase amount) when classified based on customer grades determined by purchase amount, most customers make only one purchase and then churn. The churn rate is exceptionally high, indicating the need to explore ways to reduce churn.
 
-![alt text](https://file.notion.so/f/f/0b3aee58-6888-45fa-8e6d-12430a1dee51/37ebbcfb-792a-4286-9430-1af070c1b4d5/Customer_Purchase.jpg?id=ebddec5d-de08-4856-984f-7e5fbbc91cc2&table=block&spaceId=0b3aee58-6888-45fa-8e6d-12430a1dee51&expirationTimestamp=1722391200000&signature=dTeIs5rvizrhRe-adWxBUu98PPGmLW6EQWiqhxrbEas&downloadName=Customer+Purchase.jpg)
-
+![alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Customer_Purchase.jpg)
 
 #### | Hypothesis 2
 There will be statistically significant differences in conversion rates or churn rates based on group conditions.
@@ -73,7 +72,7 @@ There will be statistically significant differences in conversion rates or churn
 
 ***Analysis Outcome*:** There were differences in item purchases based on customer grades determined by purchasing power. For lower-priced items like t-shirts and pants, sales ratios were similar across grades from 0 to 9. However, for higher-priced items like jackets and jumpers, customers in grades 4-9 (those who spend less at Golin) exhibited lower purchasing power. Strategies to sell higher-priced items to customers in lower grades need to be explored.
 
-![alt text](https://file.notion.so/f/f/0b3aee58-6888-45fa-8e6d-12430a1dee51/37ebbcfb-792a-4286-9430-1af070c1b4d5/Customer_Purchase.jpg?id=ebddec5d-de08-4856-984f-7e5fbbc91cc2&table=block&spaceId=0b3aee58-6888-45fa-8e6d-12430a1dee51&expirationTimestamp=1722391200000&signature=dTeIs5rvizrhRe-adWxBUu98PPGmLW6EQWiqhxrbEas&downloadName=Customer+Purchase.jpg)
+![alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Item_Purchase.jpg)
 
 
 #### | Hypothesis 3(Shopping Bag Analysis)
@@ -83,7 +82,7 @@ There will be differences in purchasing behavior between cases where customers b
 
 ***Analysis Outcome***: For single-item purchases, patterns were predominantly observed in outerwear like down jackets and jackets. 40% of down jackets and jackets were sold as single items. For purchases of 2 or more items, sweaters, casual jackets, and vests exceeded 80% of total sales. Therefore, for these items, the rate of multiple purchases was high. Diversification in Set-Up products and Visual Merchandising (VMD) is needed to encourage multiple purchases.
 
-![alt text](https://file.notion.so/f/f/0b3aee58-6888-45fa-8e6d-12430a1dee51/516c07ca-a640-41aa-8353-a0a82a2329fd/Shopping_Analysis.jpg?id=4bf0b2ac-1149-4349-81e9-58b1f06d9c67&table=block&spaceId=0b3aee58-6888-45fa-8e6d-12430a1dee51&expirationTimestamp=1722391200000&signature=bnPU9n9GX3FWnjiIIdCN0mw0z2Z3SaSoIR3LaQjh3pw&downloadName=Shopping+Analysis.jpg)
+![alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Shopping_Bag_Analysis.jpg)
 
 
 #### [🏢Channel Perspective]
@@ -94,8 +93,8 @@ There will be differences in item purchasing patterns across distribution channe
 
 ***Analysis Outcome***: High-spending consumers, especially those in department stores, showed a trend of selling a wide range of products from high-priced jackets and jumpers to lower-priced t-shirts and pants. However, in channels where consumers have relatively lower purchasing power such as online, agents, and discount stores, sales were concentrated on lower-priced t-shirts. Strategies or promotions to entice consumers with lower purchasing power are necessary.
 
-![alt text](https://file.notion.so/f/f/0b3aee58-6888-45fa-8e6d-12430a1dee51/cd12865d-e943-4cb3-acb3-a39d140cda5c/Distribution_Channel.jpg?id=3880bdab-f161-415c-84ba-ecc4b7551231&table=block&spaceId=0b3aee58-6888-45fa-8e6d-12430a1dee51&expirationTimestamp=1722391200000&signature=le85lm5lQ-A2OozhY8ryGmVqwc5ESWiib9TqRlJIDEA&downloadName=Distribution+Channel.jpg)
-![alt text](https://file.notion.so/f/f/0b3aee58-6888-45fa-8e6d-12430a1dee51/54b7542e-0d5f-4f14-a33e-31cef8b1f3a6/Classification.jpg?id=13b8e235-5afa-4cb2-b566-eae6936da150&table=block&spaceId=0b3aee58-6888-45fa-8e6d-12430a1dee51&expirationTimestamp=1722391200000&signature=Hz7HwoLQhU-72VevofAhh3DBD7cKeMDRNp7JqvvUqY8&downloadName=Classification.jpg)
+![alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Distribution_Channel.jpg)
+![alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Purchase_Classification.jpg)
 
 
 #### | Hypothesis 5
@@ -105,7 +104,7 @@ There will be differences in monthly purchasing patterns across distribution cha
 
 ***Analysis Outcome***: For online and agents, apart from the seasonal off-sale period, there was not a significant difference in the magnitude of changes in sales patterns. However, for department stores, sales were concentrated during the seasonal off-sale period, and in other periods, purchases were notably low.
 
-![alt text](https://file.notion.so/f/f/0b3aee58-6888-45fa-8e6d-12430a1dee51/a332725d-a27a-4b6b-b04c-ff8ec40b899e/Monthly_Distribution.jpg?id=a9f83039-9c7b-4685-b0fd-2ad17e0f48d8&table=block&spaceId=0b3aee58-6888-45fa-8e6d-12430a1dee51&expirationTimestamp=1722391200000&signature=G7DDU2G2aV8Ebkjxblgu_CVSjV1Dqdhddn8Oo0m4ybk&downloadName=Monthly+Distribution.jpg)
+![alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Monthly_Distribution.jpg)
 
 
 #### [📢Promotion Perspective]
