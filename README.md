@@ -7,8 +7,8 @@ As the domestic golf-wear market in Korea continues to expand, competition withi
 
 ## 🎯Result
 ### [Golin Product Predict EDA Pipeline]
-![alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Golin_Project_EDA_Pipeline.jpg)
 ![Alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Golin_Project_EDA_Pipeline.jpg)
+
 ##
 
 #### 1.[Data Collect]
@@ -63,7 +63,7 @@ The stage where most exits occur will likely be the transition from viewing the 
 
 ***Analysis Outcome*:** Over the past three years, significant revenue growth has been mostly driven by new customers. However, there is an issue with new customers consistently entering but not staying and ultimately churning. It was observed that, except for the top 3 grades (top 30% in terms of purchase amount) when classified based on customer grades determined by purchase amount, most customers make only one purchase and then churn. The churn rate is exceptionally high, indicating the need to explore ways to reduce churn.
 
-![alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Customer Purchase.jpg)
+![alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Customer_Purchase.jpg)
 
 #### | Hypothesis 2
 There will be statistically significant differences in conversion rates or churn rates based on group conditions.
@@ -72,7 +72,7 @@ There will be statistically significant differences in conversion rates or churn
 
 ***Analysis Outcome*:** There were differences in item purchases based on customer grades determined by purchasing power. For lower-priced items like t-shirts and pants, sales ratios were similar across grades from 0 to 9. However, for higher-priced items like jackets and jumpers, customers in grades 4-9 (those who spend less at Golin) exhibited lower purchasing power. Strategies to sell higher-priced items to customers in lower grades need to be explored.
 
-![alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Item Purchase.jpg)
+![alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Item_Purchase.jpg)
 
 
 #### | Hypothesis 3(Shopping Bag Analysis)
@@ -93,8 +93,8 @@ There will be differences in item purchasing patterns across distribution channe
 
 ***Analysis Outcome***: High-spending consumers, especially those in department stores, showed a trend of selling a wide range of products from high-priced jackets and jumpers to lower-priced t-shirts and pants. However, in channels where consumers have relatively lower purchasing power such as online, agents, and discount stores, sales were concentrated on lower-priced t-shirts. Strategies or promotions to entice consumers with lower purchasing power are necessary.
 
-![alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Distribution Channel.jpg)
-![alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Purchase Classification.jpg)
+![alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Distribution_Channel.jpg)
+![alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Purchase_Classification.jpg)
 
 
 #### | Hypothesis 5
@@ -104,7 +104,7 @@ There will be differences in monthly purchasing patterns across distribution cha
 
 ***Analysis Outcome***: For online and agents, apart from the seasonal off-sale period, there was not a significant difference in the magnitude of changes in sales patterns. However, for department stores, sales were concentrated during the seasonal off-sale period, and in other periods, purchases were notably low.
 
-![alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Monthly Distribution.jpg)
+![alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Monthly_Distribution.jpg)
 
 
 #### [📢Promotion Perspective]
