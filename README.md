@@ -1,4 +1,4 @@
-# Sales Analysis for Goldwear
+# Sales Analysis for new lineup
 
 ## 🎯The Problem
 For the Korean brand 'Golin,' which specializes in youthful golf wear targeting individuals in their 2030s, we have undertaken a product prediction for the upcoming season to expand our market share. Golin, a brand that has been steadily growing since its launch in 2016, is facing a slowdown in growth due to the recent trend of golf becoming popular following the COVID-19 pandemic. Not only sportswear brands but also casual brands have launched golf-wear lines, which has increased competition. We initiated an EDA analysis to improve the brand's growth rate and sales performance in this context.
