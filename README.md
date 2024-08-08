@@ -82,7 +82,7 @@ There will be differences in purchasing behavior between cases where customers b
 
 ***Analysis Outcome***: For single-item purchases, patterns were predominantly observed in outerwear like down jackets and jackets. 40% of down jackets and jackets were sold as single items. For purchases of 2 or more items, sweaters, casual jackets, and vests exceeded 80% of total sales. Therefore, for these items, the rate of multiple purchases was high. Diversification in Set-Up products and Visual Merchandising (VMD) is needed to encourage multiple purchases.
 
-![alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Shopping Bag Analysis.jpg)
+![alt text](C:\Users\yunni\yuuuuniii\Sales-Analysis\Image\Shopping_Bag_Analysis.jpg)
 
 
 #### [🏢Channel Perspective]
